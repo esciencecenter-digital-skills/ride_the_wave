@@ -3,7 +3,7 @@
     <img style="width: 25%; height: 25%" src="https://github.com/resurfemg/resurfemg/blob/main/Logo_rond_tekst.svg">
 </p>
 
-This repository holds (materials)[final_biosignals_stuff] that were used at the Biosignals 2023 tutorial as well as general learning material.
+## This repository holds [materials](final_biosignals_stuff) that were used at the Biosignals 2023 tutorial as well as general learning material.
 
 ##  ⚡ Suggested programs for working with ReSurfEMG⚡
 
